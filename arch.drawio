@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T11:43:24.257Z" agent="5.0 (Windows)" etag="rnvU3vfS8cEyNyMbWBeh" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T11:48:06.711Z" agent="5.0 (Windows)" etag="tDQEVQL0iTmqI6Umy1x4" version="14.6.0" type="github">
   <diagram id="_7CGNgvk-v6_zv3NM-jY" name="Page-1">
-    <mxGraphModel dx="421" dy="249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="1" shadow="0">
+    <mxGraphModel dx="870" dy="515" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,6 +240,15 @@
         </mxCell>
         <mxCell id="OIbhHtArdQOACGky-XTL-4" value="$$\frac{\partial \ell}{\partial \mathbf{W}_l(2)}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="614" y="310" width="249" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="OIbhHtArdQOACGky-XTL-5" value="$$\mathbf x$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="280.75" width="85" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="OIbhHtArdQOACGky-XTL-6" value="$$M$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="280.75" width="46" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="OIbhHtArdQOACGky-XTL-7" value="$$\hat y_l $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="113" width="79" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
